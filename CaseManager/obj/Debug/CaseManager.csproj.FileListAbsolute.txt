@@ -1,0 +1,15 @@
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\bin\Debug\CaseManager.exe.config
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\bin\Debug\CaseManager.exe
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\bin\Debug\CaseManager.pdb
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\obj\Debug\CaseManager.csprojResolveAssemblyReference.cache
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\obj\Debug\CaseManager.caseManagerForm.resources
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\obj\Debug\CaseManager.Properties.Resources.resources
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\obj\Debug\CaseManager.csproj.GenerateResource.Cache
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\obj\Debug\CaseManager.exe
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\obj\Debug\CaseManager.pdb
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\obj\Debug\CaseManager.ExhibitionForm.resources
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\obj\Debug\CaseManager.OffenseForm.resources
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\obj\Debug\CaseManager.RequestorForm.resources
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\obj\Debug\CaseManager.HoursForm.resources
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\obj\Debug\CaseManager.NewCaseForm.resources
+C:\Users\Elocin\Desktop\pontaza2\CaseManager\CaseManager\obj\Debug\CaseManager.StatusForm.resources
